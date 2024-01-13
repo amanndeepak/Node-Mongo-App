@@ -1,0 +1,2 @@
+this is what you want to know about me hello Mr Singh 
+ Created on function now() { [native code] }
