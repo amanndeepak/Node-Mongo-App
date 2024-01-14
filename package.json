@@ -1,0 +1,15 @@
+{
+  "name": "index-app",
+  "version": "1.0.1",
+  "description": "this is mongo and node app",
+  "main": "main",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "yes"
+  },
+  "author": "amandeep",
+  "license": "ISC"
+}
