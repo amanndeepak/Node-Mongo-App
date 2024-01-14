@@ -1,0 +1,32 @@
+[
+    {
+        "id":0,
+        "firstname":"Amandeep",
+        "lastName":"Singh"
+        
+    },
+    {
+        "id":1,
+        "firstname":"InderJeet",
+        "lastName":"Singh"
+        
+    },
+    {
+        "id":2,
+        "firstname":"Sandeep",
+        "lastName":"Kour"
+        
+    },
+    {
+        "id":3,
+        "firstname":"Nirmal",
+        "lastName":"Singh"
+        
+    },
+    {
+        "id":4,
+        "firstname":"Gurmeet",
+        "lastName":"Kour"
+        
+    }
+]
