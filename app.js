@@ -7,4 +7,13 @@ console.log(textIn)
 // console.log(hello)
 
 const textOut = `this is what you want to know about me ${textIn} \n Created on ${Date.now}`;
-fs.writeFileSync('textOut.txt', textOut);
+fs.writeFileSync('output.txt', textOut);
+
+console.log("start")
+
+fs.readFile('output.txt','utf-8',(err,data)=>{
+    console.log("file created"+data+err)
+
+})
+
+console.log("finish")
