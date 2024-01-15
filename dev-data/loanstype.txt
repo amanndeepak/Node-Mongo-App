@@ -1,0 +1,53 @@
+Personal Loans:
+
+Unsecured loans for personal use.
+Typically used for expenses like medical bills, debt consolidation, or home improvement.
+Approval is based on the borrower's creditworthiness.
+Auto Loans:
+
+Used to finance the purchase of a vehicle.
+The vehicle itself serves as collateral for the loan.
+Mortgage Loans:
+
+Used to purchase real estate.
+The property itself serves as collateral.
+Types include fixed-rate mortgages, adjustable-rate mortgages, and more.
+Student Loans:
+
+Designed to help finance education expenses.
+Can be federal or private.
+Business Loans:
+
+Offered to businesses for various purposes, such as expansion, working capital, or equipment purchase.
+Types include term loans, lines of credit, and Small Business Administration (SBA) loans.
+Credit Cards:
+
+Revolving credit lines that allow users to make purchases up to a predetermined limit.
+Monthly payments are required, and interest is charged on the outstanding balance.
+Payday Loans:
+
+Short-term loans intended to cover the borrower until their next payday.
+Often have high-interest rates and fees.
+Home Equity Loans:
+
+Borrowing against the equity in one's home.
+Funds can be used for various purposes, such as home improvements or debt consolidation.
+Consolidation Loans:
+
+Used to combine multiple debts into a single, more manageable loan.
+Helps simplify payments and may offer a lower interest rate.
+Construction Loans:
+
+Financing for the construction of a new building or home.
+Disbursed in stages as the project progresses.
+Bridge Loans:
+
+Short-term loans used to bridge a financial gap until a more permanent financing solution is obtained.
+Secured Loans:
+
+Loans backed by collateral (e.g., a car or property).
+If the borrower fails to repay, the lender can seize the collateral.
+Unsecured Loans:
+
+Loans not backed by collateral.
+Approval is based on the borrower's creditworthiness.
